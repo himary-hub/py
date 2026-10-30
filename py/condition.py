@@ -1,0 +1,9 @@
+x = int(input("what's  x"))
+y = int(input("what's  y"))
+
+if x > y :
+    print("x is super than y")
+elif x < y :
+    print("y is super than x")
+else :
+    print("x egual to y")
